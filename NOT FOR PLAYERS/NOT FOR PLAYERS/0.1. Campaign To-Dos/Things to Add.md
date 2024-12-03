@@ -1,0 +1,13 @@
+- [x] Religions for Dragonborn
+- [x] Religion humans brought with them
+- [ ] ^Flesh out
+- [x] Minor Races - e.g elves in forest, dwarves around mine etc
+- [x] Finish final map draft
+- [x] Name locations on map
+- [ ] Create Faction standings list (Renown) - p22 DM guide
+- [x] HQ map - Evolutionary over time
+- [ ] Flesh out Francis Roberts' Character sheet 
+- [ ] Calendar - Plot some holidays important to the island? Holy day of a diety atnthe beginning of a new season? I.e Null at the start of Winter. Anniversary of The Crown's succession etc.
+- [ ] Issues with any Cleric's Wish?
+- [ ] Monster lairs?
+- [ ] Ruins - page 108 (DMG)
